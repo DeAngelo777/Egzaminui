@@ -1,0 +1,10 @@
+.search {
+    position: absolute;
+    right: 0;
+    width: 75px;
+    cursor: pointer;
+  }
+
+  body{
+    background-color: darkred;
+  }
